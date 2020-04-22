@@ -31,7 +31,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="full.screen.before.presentation.mode" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="ExtractSuperBase.RECENT_KEYS">
@@ -133,6 +133,17 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
     <state x="484" y="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1586982787241">
       <screen x="0" y="0" width="1366" height="728" />
@@ -142,10 +153,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="114" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728/-1920.-137.1920.1040@0.0.1366.728" timestamp="1587155925652" />
-    <state x="463" y="122" key="FileChooserDialogImpl" timestamp="1587507284935">
+    <state x="463" y="122" key="FileChooserDialogImpl" timestamp="1587507638586">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.728/-1920.-137.1920.1040@0.0.1366.728" timestamp="1587507284935" />
+    <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.728/-1920.-137.1920.1040@0.0.1366.728" timestamp="1587507638586" />
     <state width="1323" height="113" key="GridCell.Tab.0.bottom" timestamp="1587507285115">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -182,10 +193,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728/-1920.-137.1920.1040@0.0.1366.728" timestamp="1586128880635" />
-    <state x="186" y="9" key="SettingsEditor" timestamp="1583974127995">
+    <state x="186" y="9" key="SettingsEditor" timestamp="1587507766749">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="186" y="9" key="SettingsEditor/0.0.1366.728/-1920.-137.1920.1040@0.0.1366.728" timestamp="1583974127995" />
+    <state x="186" y="9" key="SettingsEditor/0.0.1366.728/-1920.-137.1920.1040@0.0.1366.728" timestamp="1587507766749" />
     <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1587047380673">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -198,9 +209,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="339" y="162" key="run.anything.popup/0.0.1366.728/-1920.-137.1920.1040@0.0.1366.728" timestamp="1587407470854" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1587507266261">
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1587507635399">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/-1920.-137.1920.1040@0.0.1366.728" timestamp="1587507266261" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/-1920.-137.1920.1040@0.0.1366.728" timestamp="1587507635399" />
   </component>
 </project>
