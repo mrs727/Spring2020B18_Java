@@ -42,6 +42,7 @@ public class Frequency {
                 count++;
             }
         }
+
         return count;
     }
 }

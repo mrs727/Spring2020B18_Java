@@ -61,6 +61,30 @@ public class Library {
         }
         return result;
     }
+
+    public static int Frequency(String str, char ch){
+
+        char[] arr = str.toCharArray();
+        int count = 0;
+        for(char each: arr){
+            if(each ==ch){
+                count++;
+            }
+        }
+        return count;
+    }
+
+    public static String uniques(String str){
+        String result = "";
+
+        for(int i = 0; i<str.length(); i++){
+            int num1 = Frequency(str,str.charAt(i));
+            if(num1==1){
+                result+=str.charAt(i);
+            }
+        }
+        return result;
+    }
     // merge two array and return third one
     // max number from array
     // min number from array
