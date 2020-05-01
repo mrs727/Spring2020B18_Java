@@ -1,29 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="76845a08-ec03-4e81-ab4a-a93a1ba5a0e5" name="Default Changelist" comment="commit">
-      <change afterPath="$PROJECT_DIR$/src/OfficeHours/Practice_04_22_2020/methodOverloading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OfficeHours/Practice_04_22_2020/return_Method.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OfficeHours/Practice_04_22_2020/return_Method2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OfficeHours/Practice_04_22_2020/return_Statement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OfficeHours/Practice_04_22_2020/void_Method.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day27_DateTime/Dates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day27_DateTime/Dates_Formatting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day27_DateTime/Find_Minimum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day27_DateTime/unique_Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day28_DateTime/Birthdays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day28_DateTime/DateTime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day28_DateTime/DateTime_Formatting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day28_DateTime/LocalDate_Practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day28_DateTime/Time.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day28_DateTime/Time_Formatting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day29_Wrapper_ArrayList/Auto_Unboxing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day29_Wrapper_ArrayList/WrapperClass.java" afterDir="false" />
+    <list default="true" id="76845a08-ec03-4e81-ab4a-a93a1ba5a0e5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/OfficeHours/Practice_04_29_2020/ArrayList_Methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OfficeHours/Practice_04_29_2020/ArrayList_Methods2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day29_Wrapper_ArrayList/List_Intro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day29_Wrapper_ArrayList/List_Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day29_Wrapper_ArrayList/List_Practice2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day29_Wrapper_ArrayList/ParseMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day29_Wrapper_ArrayList/ValueOfMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day29_Wrapper_ArrayList/WrapperClass_Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day30_ArrayList/ArrayList_Reverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day30_ArrayList/ArraysList_Methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day30_ArrayList/ArraysList_Methods2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day30_ArrayList/CombineTwoArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day30_ArrayList/SumOfDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day30_ArrayList/Uniques.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day31_BulkOperations/ArrayList_Methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day31_BulkOperations/Bulk_ContainsAll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day31_BulkOperations/Bulk_RemoveAll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day31_BulkOperations/Bulk_RetainAll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day31_BulkOperations/Bulk_addAll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day31_BulkOperations/RemoveDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day32_Predicate/MoveZeroes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day26_MethodOverloading/MethodOverloading2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day26_MethodOverloading/MethodOverloading2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/Resources/Library.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/Resources/Library.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day26_MethodOverloading/Frequency.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day26_MethodOverloading/Frequency.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day26_MethodOverloading/Uniques.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day26_MethodOverloading/Uniques.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Resources/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Resources/Library.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day26_MethodOverloading/Frequency.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day26_MethodOverloading/Frequency.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day26_MethodOverloading/Uniques.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day26_MethodOverloading/Uniques.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day29_Wrapper_ArrayList/Auto_Unboxing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day29_Wrapper_ArrayList/Auto_Unboxing.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,13 +75,13 @@
       <recent name="Resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.return_Method2">
-    <configuration name="Arrays_Practice2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day19_Arrays.Arrays_Practice2" />
+  <component name="RunManager" selected="Application.MoveZeroes">
+    <configuration name="Bulk_ContainsAll" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day31_BulkOperations.Bulk_ContainsAll" />
       <module name="Spring2020B18_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day19_Arrays.*" />
+          <option name="PATTERN" value="day31_BulkOperations.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Driver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day25_MethodsRecap.Driver" />
+    <configuration name="Bulk_RemoveAll" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day31_BulkOperations.Bulk_RemoveAll" />
       <module name="Spring2020B18_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day25_MethodsRecap.*" />
+          <option name="PATTERN" value="day31_BulkOperations.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Frequency" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day26_MethodOverloading.Frequency" />
+    <configuration name="Bulk_addAll" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day31_BulkOperations.Bulk_addAll" />
       <module name="Spring2020B18_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day26_MethodOverloading.*" />
+          <option name="PATTERN" value="day31_BulkOperations.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodOverloading2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day26_MethodOverloading.MethodOverloading2" />
+    <configuration name="MoveZeroes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day32_Predicate.MoveZeroes" />
       <module name="Spring2020B18_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day26_MethodOverloading.*" />
+          <option name="PATTERN" value="day32_Predicate.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="return_Method2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OfficeHours.Practice_04_22_2020.return_Method2" />
+    <configuration name="RemoveDuplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day31_BulkOperations.RemoveDuplicates" />
       <module name="Spring2020B18_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OfficeHours.Practice_04_22_2020.*" />
+          <option name="PATTERN" value="day31_BulkOperations.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.return_Method2" />
-        <item itemvalue="Application.MethodOverloading2" />
-        <item itemvalue="Application.Frequency" />
-        <item itemvalue="Application.Driver" />
-        <item itemvalue="Application.Arrays_Practice2" />
+        <item itemvalue="Application.MoveZeroes" />
+        <item itemvalue="Application.RemoveDuplicates" />
+        <item itemvalue="Application.Bulk_ContainsAll" />
+        <item itemvalue="Application.Bulk_addAll" />
+        <item itemvalue="Application.Bulk_RemoveAll" />
       </list>
     </recent_temporary>
   </component>
@@ -164,7 +169,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587524297629</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="commit">
+      <created>1587997997084</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1587997997084</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -194,34 +206,34 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="114" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728/-1920.-137.1920.1040@0.0.1366.728" timestamp="1587155925652" />
-    <state x="323" y="0" key="CommitChangelistDialog2" timestamp="1587582583937">
+    <state x="323" y="0" key="CommitChangelistDialog2" timestamp="1587997975214">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="323" y="0" key="CommitChangelistDialog2/0.0.1366.728/-1920.-137.1920.1040@0.0.1366.728" timestamp="1587582583937" />
+    <state x="323" y="0" key="CommitChangelistDialog2/0.0.1366.728/-1920.-137.1920.1040@0.0.1366.728" timestamp="1587997975214" />
     <state x="463" y="122" key="FileChooserDialogImpl" timestamp="1587523382029">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.728/-1920.-137.1920.1040@0.0.1366.728" timestamp="1587523382029" />
-    <state width="1323" height="113" key="GridCell.Tab.0.bottom" timestamp="1587669745577">
+    <state width="1323" height="113" key="GridCell.Tab.0.bottom" timestamp="1588298173214">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1307" height="173" key="GridCell.Tab.0.bottom/0.0.1366.728/-1920.-137.1920.1040@-1920.-137.1920.1040" timestamp="1583980682641" />
-    <state width="1323" height="113" key="GridCell.Tab.0.bottom/0.0.1366.728/-1920.-137.1920.1040@0.0.1366.728" timestamp="1587669745577" />
-    <state width="1323" height="113" key="GridCell.Tab.0.center" timestamp="1587669745576">
+    <state width="1323" height="113" key="GridCell.Tab.0.bottom/0.0.1366.728/-1920.-137.1920.1040@0.0.1366.728" timestamp="1588298173214" />
+    <state width="1323" height="113" key="GridCell.Tab.0.center" timestamp="1588298173213">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1307" height="173" key="GridCell.Tab.0.center/0.0.1366.728/-1920.-137.1920.1040@-1920.-137.1920.1040" timestamp="1583980682641" />
-    <state width="1323" height="113" key="GridCell.Tab.0.center/0.0.1366.728/-1920.-137.1920.1040@0.0.1366.728" timestamp="1587669745576" />
-    <state width="1323" height="113" key="GridCell.Tab.0.left" timestamp="1587669745575">
+    <state width="1323" height="113" key="GridCell.Tab.0.center/0.0.1366.728/-1920.-137.1920.1040@0.0.1366.728" timestamp="1588298173213" />
+    <state width="1323" height="113" key="GridCell.Tab.0.left" timestamp="1588298173213">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1307" height="173" key="GridCell.Tab.0.left/0.0.1366.728/-1920.-137.1920.1040@-1920.-137.1920.1040" timestamp="1583980682641" />
-    <state width="1323" height="113" key="GridCell.Tab.0.left/0.0.1366.728/-1920.-137.1920.1040@0.0.1366.728" timestamp="1587669745575" />
-    <state width="1323" height="113" key="GridCell.Tab.0.right" timestamp="1587669745576">
+    <state width="1323" height="113" key="GridCell.Tab.0.left/0.0.1366.728/-1920.-137.1920.1040@0.0.1366.728" timestamp="1588298173213" />
+    <state width="1323" height="113" key="GridCell.Tab.0.right" timestamp="1588298173213">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1307" height="173" key="GridCell.Tab.0.right/0.0.1366.728/-1920.-137.1920.1040@-1920.-137.1920.1040" timestamp="1583980682641" />
-    <state width="1323" height="113" key="GridCell.Tab.0.right/0.0.1366.728/-1920.-137.1920.1040@0.0.1366.728" timestamp="1587669745576" />
+    <state width="1323" height="113" key="GridCell.Tab.0.right/0.0.1366.728/-1920.-137.1920.1040@0.0.1366.728" timestamp="1588298173213" />
     <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1586128880636">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -254,17 +266,17 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="494" y="283" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728/-1920.-137.1920.1040@0.0.1366.728" timestamp="1587524383079" />
-    <state x="65" y="0" key="new project wizard" timestamp="1587669728507">
+    <state x="65" y="0" key="new project wizard" timestamp="1588185488347">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="65" y="0" key="new project wizard/0.0.1366.728/-1920.-137.1920.1040@0.0.1366.728" timestamp="1587669728507" />
-    <state x="339" y="162" key="run.anything.popup" timestamp="1587737876142">
+    <state x="65" y="0" key="new project wizard/0.0.1366.728/-1920.-137.1920.1040@0.0.1366.728" timestamp="1588185488347" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1588257498049">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="339" y="162" key="run.anything.popup/0.0.1366.728/-1920.-137.1920.1040@0.0.1366.728" timestamp="1587737876142" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1587653100544">
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728/-1920.-137.1920.1040@0.0.1366.728" timestamp="1588257498049" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1588193411557">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/-1920.-137.1920.1040@0.0.1366.728" timestamp="1587653100544" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/-1920.-137.1920.1040@0.0.1366.728" timestamp="1588193411557" />
   </component>
 </project>
